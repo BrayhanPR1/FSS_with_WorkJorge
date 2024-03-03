@@ -1,0 +1,237 @@
+INFO:root:2023-10-26 13:02:10.545799
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 04bd15be-82c8-43b5-b006-e7fa3b45eb4c
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.3245678  0.28959272 0.34517469 0.30185311 0.55610586
+ 0.56650306 0.60894754 0.53864691 0.60517853 2.54       1.27
+ 0.21245959 0.34753808]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2023-10-30 17:50:41.357606
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 08f05515-68e8-4eaa-93a4-f5e474276ec8
+INFO:root:2023-10-30 18:00:08.963835
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: f4595d56-bd4f-417e-983a-e8aacc6b85cc
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.30579035 0.27418198 0.30922222 0.30165761 0.50763953
+ 0.56506267 0.42181292 0.44011583 0.47696554 2.71561445 1.34188675]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2023-10-30 18:20:09.347745
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 4abe2aa0-5779-45a6-a444-07285273ca02
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.32623729 0.32200814 0.32523943 0.29683812 0.57042398
+ 0.50766933 0.43277823 0.4127544  0.50649909 2.67441864 1.34048708]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2023-10-30 18:29:51.074879
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: fef06ee0-2b5a-4b2f-b27f-1471adebdbf5
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.30258846 0.27175548 0.28861011 0.31590281 0.4771861
+ 0.47381968 0.49743379 0.57751952 0.56765419 2.67401888 1.34438742]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:2024-02-19 15:06:25.194111
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 6a1182ee-02cf-4f52-ae86-3ba79ffd5d59
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.2951002  0.38959441 0.32918963 0.30647326 0.65705998
+ 0.52422163 0.60829804 0.69060979 0.54283154 2.54       1.27
+ 0.26067392 0.33012195]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2024-02-19 15:16:11.815835
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: fce9c404-e146-4edc-bf54-e370cb480d0b
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.31547832 0.35081122 0.2905073  0.31104869 0.57407243
+ 0.56724411 0.6522243  0.66325203 0.58868342 2.54       1.27
+ 0.2771164  0.3054905 ]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2024-02-19 15:17:37.158682
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: c5494d17-bd4c-46d6-a0ab-86438ad5a30d
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.11147262 0.37893567 0.30998109 0.29152978 0.20676509
+ 1.0828507  1.96964469 3.02644604 0.67503669 2.66382641 1.34002676]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2024-02-19 15:25:06.015433
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 8d0f5b85-c944-4714-af28-5304f90ff20c
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.28239387 0.29593267 0.35353151 0.38096521 0.67017247
+ 0.51417272 0.66510887 0.61121155 0.57645855 2.54       1.27
+ 0.20027974 0.29509779]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:2024-02-19 15:28:02.977598
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 1b03e886-9642-40be-bbba-5ee7905112ae
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.30984539 0.34325487 0.37595404 0.37116671 0.59451278
+ 0.60128393 0.54467154 0.57195755 0.62338532 2.54       1.27
+ 0.24096347 0.31001173]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:11.14485
+INFO:root:Initial Particle 1[0.         0.32362122 0.31044097 0.29070473 0.38671382 0.59324402
+ 0.535053   0.64809582 0.6899289  0.65009988 2.54       1.27
+ 0.19539251 0.24394558]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 1
+INFO:root:2024-02-19 16:07:00.034020
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 4ed826c9-16bb-437c-905e-7975ff97e9c8
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.30451232 0.32535366 0.29605815 0.33637939 0.61242905
+ 0.64925521 0.5563213  0.65860982 0.53458328 2.54       1.27
+ 0.27940345 0.29572487]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:8.60354
+INFO:root:Initial Particle 1[0.         0.29156699 0.36577804 0.34243543 0.31900206 0.62894242
+ 0.67794308 0.66753946 0.59497187 0.50069174 2.54       1.27
+ 0.26522856 0.22042661]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 1
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:9.85748
+INFO:root:Initial Particle 2[0.         0.28384039 0.28766753 0.33866583 0.31143002 0.60748969
+ 0.69427242 0.569099   0.55131133 0.5503275  2.54       1.27
+ 0.29382575 0.26018439]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 2
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:7.67964
+INFO:root:Initial Particle 3[0.         0.30176975 0.30561051 0.3282382  0.28106946 0.5234762
+ 0.67799532 0.54435218 0.63676341 0.53381237 2.54       1.27
+ 0.26178661 0.25724729]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 3
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:7.70836
+INFO:root:Initial Particle 4[0.         0.31955198 0.29332857 0.31878883 0.37248812 0.55599102
+ 0.51493328 0.60165426 0.51641933 0.68341306 2.54       1.27
+ 0.19622592 0.24858239]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 4
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:10.66463
+INFO:root:Initial Particle 5[0.         0.29406982 0.29168661 0.3439924  0.38731692 0.56479957
+ 0.62906435 0.68325843 0.66809834 0.65803255 2.54       1.27
+ 0.20873421 0.33135802]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 5
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:10.50885
+INFO:root:Initial Particle 6[0.         0.31734566 0.29774975 0.37396965 0.29713366 0.65395595
+ 0.68601163 0.5875936  0.68558208 0.61814495 2.54       1.27
+ 0.19318831 0.32508037]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 6
+INFO:root:Ending particle simulation
+INFO:root:Fitness values:9.42614
+INFO:root:Time Elapsed (segs):7021.496082
+INFO:root:pbest:[ 8.60354  9.85748  7.67964  7.70836 10.66463 10.50885  9.42614]
+INFO:root:gbest:7.67964
+INFO:root:PG:[0.         0.28384039 0.28766753 0.33866583 0.31143002 0.60748969
+ 0.69427242 0.569099   0.55131133 0.5503275  2.54       1.27
+ 0.29382575 0.26018439]
+INFO:root:best particle index: 2
+
+INFO:root:2024-02-28 17:07:57.317773
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 9d6dfc04-50c7-4496-94e7-cc11522b00d7
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Start
+INFO:root:Create Particles
+INFO:root:Initial Particle 0[0.         0.28389342 0.33211107 0.31208589 0.2976284  0.5934872
+ 0.58761339 0.6175232  0.57158076 0.61892352 2.54       1.27
+ 0.28974845 0.33799518]
+INFO:root:Simulation file ready
+INFO:root:Start particle simulation 0
+INFO:root:2024-02-28 17:21:39.875790
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 278f1712-ed64-489d-8407-a8465cb6b7af
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:2024-02-28 17:58:22.148945
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 6e7aa0a4-d8c7-463f-b824-e6fea261cdb4
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:2024-02-28 17:59:17.785669
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 3fc6106b-6771-4f48-aa85-5a89766a4c05
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:2024-03-03 13:07:40.299015
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: e1e66cbf-9190-4b3e-a91b-1d2f24709d23
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:2024-03-03 13:16:17.213624
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 030455ef-c7b1-420c-b51e-9492fa584d33
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:2024-03-03 13:16:33.848997
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 79b0ae1c-23a5-4a43-a3e8-a7f9ea1ade01
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Create Particles
+INFO:root:Ending particle simulation
+INFO:root:Ending particle simulation
+INFO:root:2024-03-03 13:53:46.411327
+INFO:root:General hfss and simulation parameters set
+INFO:root:Simulation ID: 8f8fd54d-20ad-49ca-bced-12f732f52f62
+WARNING:root:files folder created
+WARNING:root:figures folder created
+INFO:root:Create Particles
+INFO:root:Ending particle simulation
